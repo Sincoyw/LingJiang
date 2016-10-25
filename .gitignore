@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+build/
+out/
+LingJiang.iml
+LingJiang.ipr
+LingJiang.iws
